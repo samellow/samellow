@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @samellow
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React
 - 📫 How to reach me  sammykaris48@gmail.com
 
 <!---
